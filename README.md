@@ -1,6 +1,4 @@
-# Tribhuvan University
-# Institute of Engineering
-# BE Syllabus
+# BE Syllabus, IOE (TU)
 Bachelor's Degree in Computer Engineering (BCT)
 - [BCT I Year / I Part](https://github.com/KCE/Syllabus/blob/master/BCT_I_I.pdf)
 - [BCT I Year / II Part](https://github.com/KCE/Syllabus/blob/master/BCT_I_II.pdf)
