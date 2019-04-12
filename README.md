@@ -1,3 +1,5 @@
+# Tribhuvan University
+# Institute of Engineering
 # BE Syllabus
 Bachelor's Degree in Computer Engineering (BCT)
 - [BCT I Year / I Part](https://github.com/KCE/Syllabus/blob/master/BCT_I_I.pdf)
